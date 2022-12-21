@@ -1,0 +1,8 @@
+D:\PROJECT\Task Discrete Mathematics 1\Task Discrete Mathematics 1\bin\Debug\Task Discrete Mathematics 1.exe.config
+D:\PROJECT\Task Discrete Mathematics 1\Task Discrete Mathematics 1\bin\Debug\Task Discrete Mathematics 1.exe
+D:\PROJECT\Task Discrete Mathematics 1\Task Discrete Mathematics 1\bin\Debug\Task Discrete Mathematics 1.pdb
+D:\PROJECT\Task Discrete Mathematics 1\Task Discrete Mathematics 1\obj\Debug\Task Discrete Mathematics 1.csproj.AssemblyReference.cache
+D:\PROJECT\Task Discrete Mathematics 1\Task Discrete Mathematics 1\obj\Debug\Task Discrete Mathematics 1.csproj.SuggestedBindingRedirects.cache
+D:\PROJECT\Task Discrete Mathematics 1\Task Discrete Mathematics 1\obj\Debug\Task Discrete Mathematics 1.csproj.CoreCompileInputs.cache
+D:\PROJECT\Task Discrete Mathematics 1\Task Discrete Mathematics 1\obj\Debug\Task Discrete Mathematics 1.exe
+D:\PROJECT\Task Discrete Mathematics 1\Task Discrete Mathematics 1\obj\Debug\Task Discrete Mathematics 1.pdb
