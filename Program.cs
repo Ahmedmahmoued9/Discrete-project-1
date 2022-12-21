@@ -22,11 +22,11 @@ namespace Task_Discrete_Mathematics_1
             // first loop to determine the start and end number taken from user
             for (int number = start; number <= end; number++)
             {
-                // seconed to determine the divider start and end 
-                for (int divider = 1; divider <= end; divider++)
+                // seconed to determine the Divisor start and end 
+                for (int Divisor = 1; Divisor <= end; Divisor++)
                 {
-                    //first condition to make sure "number" can be divided on the "divider"
-                    if (number % divider == 0)
+                    //first condition to make sure "number" can be divided on the "Divisor"
+                    if (number % Divisor == 0)
                     {
                         // here we count how many times the "number" was divided 
                         sum += 1;
